@@ -1,0 +1,67 @@
+body{
+    background:linear-gradient(320deg,rgb(64, 183, 219),rgb(239, 239, 80));
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-color:black;
+}
+#hello{
+    color: olive;
+    background:linear-gradient(320deg,rgb(235, 235, 121),rgb(152, 237, 181),rgb(244, 146, 128));
+    display:inline-block;
+    padding:100px;
+    border-radius:20%;
+    box-shadow: 2.5cm;
+    border-top-right-radius:20cm;
+    line-height:3px;
+}
+img{
+    justify-content: center;
+   position: absolute;
+   top:8cm;
+   left:1cm;
+    height:500; width:5000;
+    border-radius: 100%;
+}
+/* Target the audio player */
+#sinatra {
+  width: 300px;        /* Set player width */
+  height: 40px;        /* Height may not always work depending on browser */
+  
+  position: absolute;  /* Position on page */
+  top: 21cm;          /* Distance from top */
+  left: 3cm;          /* Distance from left */
+  
+  border: 2px solid #130b0b;  /* Add border */
+  border-radius: 8px;      /* Rounded corners */
+  background-color: #ed0f0f; /* Background around player */
+}
+#hmm
+{   font-family: sans-serif;
+    font-size: larger;
+    text-align: right;
+    padding-top:0cm;
+    padding-right:2.5cm;
+    color:black;
+    
+}
+#get {
+text-align:right;
+font-family: sans-serif;
+font-size: medium;
+color: black;
+padding-right:1cm;
+padding-top: 1cm;
+
+
+}
+#heart
+{
+ text-align:center;
+font-family: sans-serif;
+font-size: medium;
+color: black;
+padding-right:3cm ;
+padding-top:1cm ;
+}
+#fight{
+    padding-bottom: 0%;
+}
